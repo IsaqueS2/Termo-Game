@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Termo-Game", "Termo-Game\Termo-Game.csproj", "{DA6D6B7A-9F6C-40C0-ABFC-936558634FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6D6B7A-9F6C-40C0-ABFC-936558634FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6D6B7A-9F6C-40C0-ABFC-936558634FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6D6B7A-9F6C-40C0-ABFC-936558634FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6D6B7A-9F6C-40C0-ABFC-936558634FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9AEF7FD-3A1B-40F9-BCFE-54AA6ADE81CF}
+	EndGlobalSection
+EndGlobal
